@@ -1,8 +1,1 @@
-services:
-  - type: web
-    name: trading-bot
-    env: python
-    buildCommand: ""
-    startCommand: "python main.py"
-    plan: free
-    autoDeploy: true
+
